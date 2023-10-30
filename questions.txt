@@ -1,0 +1,43 @@
+Question 0
+https://github.com/anujpradeep/CMPUT404Lab7.git
+
+
+
+Question 1
+Flask is minimal and allows you to choose "components" to build web applications.
+Django provides sets of tools and conventions to build web applications
+
+
+
+Question 2
+REST stands for Representational State Transfer.
+
+RESTful means to adhere to the principles and constraints of REST Architecture.
+
+
+
+Question 3
+CRUD stands for Create, Read, Update, and Delete
+
+
+Create: POST
+Read: GET
+Update: PUT
+Delete: DELETE
+
+
+Question 4
+1xx: Informational - (100 for "Continue")
+2xx: Success - (200 for "OK")
+3xx: Redirection - (301 for "Moved Permanently")
+4xx: Client Errors - (404 for "Not Found")
+5xx: Server Errors (500 for "Internal Server Error")
+
+
+Question 5
+XSS stands for Cross-Site Scripting.It's a security vulnerability where an attacker injects malicious scripts into a web application, and those scripts are executed by other users' browsers. 
+A common way a site vulnerable to an XSS attack, is if it doesn't properly validate user inputs.
+
+Question 6
+CORS stands for Cross-Origin Resource Sharing.
+You would want CORS protection when you are making requests to another domain. (e.g., Making an API call to another domain)
